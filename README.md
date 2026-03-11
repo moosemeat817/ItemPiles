@@ -8,3 +8,4 @@ This is Emma's Item Piles mod, what more do you need to know?
 ## 🙏 Special Thanks
 
 - To Emma, the original creator of the mod.
+- Credit to BA, who actually updated this mod.  I'm just publishing it.
