@@ -1,0 +1,99 @@
+{
+    "ModFoodComponent": {
+        "DisplayNameLocalizationId": "GAMEPLAY_CattailPile005",
+        "DescriptionLocalizatonId": "GAMEPLAY_CattailPile005Description",
+        "InventoryActionLocalizationId": "",
+        "WeightKG": 0.25,
+        "DaysToDecay": 0,
+        "MaxHP": 100,
+        "InitialCondition": "Perfect",
+        "InventoryCategory": "Auto",
+        "PickUpAudio": "Play_SndInvPlantMedium",
+        "PutBackAudio": "Play_SndInvPlantSmall",
+        "StowAudio": "Play_InventoryStow",
+        "WornOutAudio": "",
+        "InspectOnPickup": true,
+        "InspectDistance": 1.0,
+        "InspectAngles": [
+            -45,
+            40,
+            0
+        ],
+        "InspectOffset": [
+            0,
+            0,
+            0
+        ],
+        "InspectScale": [
+            1,
+            1,
+            1
+        ],
+        "NormalModel": "",
+        "InspectModel": "",
+        "Cooking": false,
+        "CookingMinutes": 8,
+        "CookingUnitsRequired": 1,
+        "CookingWaterRequired": 0,
+        "CookingResult": "",
+        "BurntMinutes": 30,
+        "Type": "Grub",
+        "CookingAudio": "",
+        "StartCookingAudio": "",
+        "DaysToDecayOutdoors": 0,
+        "DaysToDecayIndoors": 0,
+        "Calories": 750,
+        "Servings": 1,
+        "EatingTime": 5,
+        "EatingAudio": "Play_EatingCattail",
+        "EatingPackagedAudio": "",
+        "ThirstEffect": 0,
+        "FoodPoisoning": 0,
+        "FoodPoisoningLowCondition": 0,
+        "ParasiteRiskIncrements": [],
+        "Natural": true,
+        "Raw": false,
+        "Drink": false,
+        "Meat": false,
+        "Fish": false,
+        "Canned": false,
+        "Opening": false,
+        "OpeningWithCanOpener": false,
+        "OpeningWithKnife": false,
+        "OpeningWithHatchet": false,
+        "OpeningWithSmashing": false,
+        "AffectCondition": false,
+        "ConditionRestBonus": 0,
+        "ConditionRestMinutes": 0,
+        "AffectRest": false,
+        "InstantRestChange": 0,
+        "RestFactor": 0.5,
+        "RestFactorMinutes": 0,
+        "AffectCold": false,
+        "InstantColdChange": 0,
+        "ColdFactor": 0.5,
+        "ColdFactorMinutes": 60,
+        "ContainsAlcohol": false,
+        "AlcoholPercentage": 0,
+        "AlcoholUptakeMinutes": 45,
+		"VitaminC": 5
+    },
+    "ModHarvestableBehaviour": {
+        "Audio": "Play_HarvestingPlants",
+        "Minutes": 2,
+        "YieldCounts": [
+            5
+        ],
+        "YieldNames": [
+            "GEAR_CattailStalk"
+        ],
+        "RequiredToolNames": []
+    },
+    "ModStackableBehaviour": {
+        "SingleUnitTextId": "GAMEPLAY_CattailPile005",
+        "MultipleUnitTextId": "GAMEPLAY_CattailPile005",
+        "StackSprite": "",
+        "UnitsPerItem": 1,
+        "ChanceFull": 100
+    }
+}

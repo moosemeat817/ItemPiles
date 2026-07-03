@@ -1,0 +1,45 @@
+{
+    "ModGenericComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_HardwoodPile005",
+                                "DescriptionLocalizatonId"  : "GAMEPLAY_HardwoodPile005Description",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 5.0,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Perfect",
+                                "InventoryCategory" : "Auto",
+                                "PickUpAudio" : "Play_SndInvWoodFirewood",
+                                "PutBackAudio" : "Play_SndInvWoodFirewood",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 2.0,
+                                "InspectAngles" : [-45, 40, 0],
+                                "InspectOffset" : [0, 0, 0],
+                                "InspectScale" :  [1, 1, 1],
+                                "NormalModel" : "",
+                                "InspectModel" : ""
+                            },
+                            
+    "ModHarvestableBehaviour": {
+                                "Audio" : "Play_CraftingWood",
+                                "Minutes" : 2,
+                                "YieldCounts" : [5],
+                                "YieldNames" : ["GEAR_Hardwood"],
+                                "RequiredToolNames" : []
+                            },
+    "ModBurnableBehaviour": {
+                                "BurningMinutes" : 450,
+                                "BurningMinutesBeforeAllowedToAdd" : 0,
+                                "SuccessModifier" : -5.0,
+                                "TempIncrease" : 40,
+                                "DurationOffset" : 0.0
+                            },
+    "ModStackableBehaviour": {
+                                "SingleUnitTextId" : "GAMEPLAY_HardwoodPile005",
+                                "MultipleUnitTextId" : "GAMEPLAY_HardwoodPile005",
+                                "StackSprite" : "",
+                                "UnitsPerItem" : 1,
+                                "ChanceFull" : 100
+                             }
+}

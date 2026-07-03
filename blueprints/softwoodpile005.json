@@ -1,0 +1,17 @@
+{
+    "Name": "GEAR_SoftwoodPile005",
+    "RequiredGear":[{"Item":"GEAR_Softwood","Count":5}],
+    "KeroseneLitersRequired": 0.0,
+    "GunpowderKGRequired": 0.0,
+    "RequiredTool": "",
+    "OptionalTools": [],
+    "RequiredCraftingLocation": "Anywhere",
+    "RequiresLitFire": false,
+    "RequiresLight": false,
+    "CraftedResult": "GEAR_SoftwoodPile005",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 1,
+    "CraftingAudio": "Play_CraftingWood",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

@@ -1,0 +1,17 @@
+{
+    "Name": "GEAR_StickPile050",
+    "RequiredGear":[{"Item":"GEAR_Stick","Count":50}],
+    "KeroseneLitersRequired": 0.0,
+    "GunpowderKGRequired": 0.0,
+    "RequiredTool": "",
+    "OptionalTools": [],
+    "RequiredCraftingLocation": "Anywhere",
+    "RequiresLitFire": false,
+    "RequiresLight": false,
+    "CraftedResult": "GEAR_StickPile050",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 1,
+    "CraftingAudio": "Play_SndInvWoodMedium",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

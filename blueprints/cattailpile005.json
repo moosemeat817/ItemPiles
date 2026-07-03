@@ -1,0 +1,17 @@
+{
+    "Name": "GEAR_CattailPile005",
+    "RequiredGear":[{"Item":"GEAR_CattailStalk","Count":5}],
+    "KeroseneLitersRequired": 0.0,
+    "GunpowderKGRequired": 0.0,
+    "RequiredTool": "",
+    "OptionalTools": [],
+    "RequiredCraftingLocation": "Anywhere",
+    "RequiresLitFire": false,
+    "RequiresLight": false,
+    "CraftedResult": "GEAR_CattailPile005",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 1,
+    "CraftingAudio": "Play_SndInvPlantMedium",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

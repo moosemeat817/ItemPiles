@@ -1,0 +1,104 @@
+{
+    "GAMEPLAY_CharcoalPile010" : {
+                            "English"  : "Pile of 10 Charcoal Pieces",
+                            "Japanese" : "木炭の山10"
+    },
+    "GAMEPLAY_CharcoalPile010Description" : {
+                            "English"  : "10 pieces of charcoal, arranged in a convenient pile. This is too many to draw a map or craft with, but can be unpiled and used one by one.",
+                            "Japanese" : "集められた木炭。山になったままでは地図を描けない。"
+    },
+    
+    "GAMEPLAY_StonePile010" : {
+                            "English"  : "Pile of 10 Stones",
+                            "Japanese" : "小石の山10"
+    },
+    "GAMEPLAY_StonePile010Description" : {
+                            "English"  : "An orderly pile of 10 small stones. Too many to throw and too few to build with, but can be unpiled and used one by one.",
+                            "Japanese" : "集められた小石。"
+    },
+
+
+    "GAMEPLAY_ScrapPile010" : {
+                            "English"  : "Box of 10 Scrap Metal",
+                            "Japanese" : "金属くずの山10"
+    },
+    "GAMEPLAY_ScrapPile010Description" : {
+                            "English"  : "Scrap metal, arranged in a box for easy transport. Too jumbled up to use in their current state, but if you spend a few minutes seperating them, could be used for crafting.",
+                            "Japanese" : "集められた金属くず。"
+    },
+    
+    "GAMEPLAY_RwoodPile010" : {
+                            "English"  : "Pile of Reclaimed Wood (10)",
+                            "Japanese" : "回収した木材の束 10"
+    },
+    "GAMEPLAY_RwoodPile010Description" : {
+                            "English"  : "A pile of 10 pieces of reclaimed wood, arranged as neatly as you can manage. Can be burned as is, or unpiled for use in crafting.",
+                            "Japanese" : "束ねられた回収した木材。"
+    },
+    
+    "GAMEPLAY_StickPile010" : {
+                            "English"  : "Bundle of Sticks (10)",
+                            "Japanese" : "枝木の束 10"
+    },
+    "GAMEPLAY_StickPile010Description" : {
+                            "English"  : "10 sticks, bundled together for easy transport. Burns somewhat better than feeding each piece into the fire alone, but not by much.",
+                            "Japanese" : "束ねられた枝木。"
+    },
+    
+    "GAMEPLAY_StickPile050" : {
+                            "English"  : "Large Bundle of Sticks (50)",
+                            "Japanese" : "枝木の束 50"
+    },
+    "GAMEPLAY_StickPile050Description" : {
+                            "English"  : "A large bundle of sticks, barely able to be fastened together. Burns somewhat more slowly than feeding each piece into a fire alone, but not by very much.",
+                            "Japanese" : "束ねられた枝木。"
+    },
+
+    "GAMEPLAY_StickPile050F" : {
+                            "English"  : "Large Bundle of Sticks (50) F",
+                            "Japanese" : "枝木の束 50 F"
+    },
+    "GAMEPLAY_StickPile050FDescription" : {
+                            "English"  : "A large bundle of sticks, barely able to be fastened together. Burns somewhat more slowly than feeding each piece into a fire alone, but not by very much.",
+                            "Japanese" : "並べて束ねられた枝木。"
+    },
+
+
+    "GAMEPLAY_SoftwoodPile005" : {
+                            "English"  : "Pile of Cedar Firewood (5)",
+                            "Japanese" : "スギの薪の束 5"
+    },
+    "GAMEPLAY_SoftwoodPile005Description" : {
+                            "English"  : "A bundle of cedar firewood, cut to length and neatly packed. Can be burned together, or sorted into individual pieces.",
+                            "Japanese" : "束ねられたスギの薪。"
+    },
+
+    "GAMEPLAY_HardwoodPile005" : {
+                            "English"  : "Pile of Fir Firewood (5)",
+                            "Japanese" : "モミの薪の束 5"
+    },
+    "GAMEPLAY_HardwoodPile005Description" : {
+                            "English"  : "A bundle of good quality hard fir firewood, cut to length and neatly stacked together. Can be burned all at once, or sorted into individual pieces.",
+                            "Japanese" : "束ねられたモミの薪。"
+    },
+
+    "GAMEPLAY_CoalPile004" : {
+                            "English"  : "Pile of Coal (4)",
+                            "Japanese" : "石炭の山 4"
+    },
+    "GAMEPLAY_CoalPile004Description" : {
+                            "English"  : "Four pieces of coal, arranged in a neat stack. Can be burned as is or broken down into individual pieces.",
+                            "Japanese" : "集められた石炭。"
+    },
+
+    "GAMEPLAY_CattailPile005" : {
+                            "English"  : "Bundle of Cat Tail Stalks (5)",
+                            "Japanese" : "ガマの茎の束5"
+    },
+    "GAMEPLAY_CattailPile005Description" : {
+                            "English"  : "Five cat tail stalks, bound together for easy transport. Tough enough to be mistaken for a bundle of branches, but much more nutritious. Can be eaten together as a substantial, if bland, meal, or broken into individual stalks.",
+                            "Japanese" : "束ねられたガマの茎。"
+    }
+
+
+}

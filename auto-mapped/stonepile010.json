@@ -1,0 +1,38 @@
+{
+    "ModGenericComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_StonePile010",
+                                "DescriptionLocalizatonId"  : "GAMEPLAY_StonePile010Description",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 1.5,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Perfect",
+                                "InventoryCategory" : "Tool",
+                                "PickUpAudio" : "Play_SndInvStoneSmall",
+                                "PutBackAudio" : "Play_SndInvStoneSmall",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 1.0,
+                                "InspectAngles" : [-45, 40, 0],
+                                "InspectOffset" : [0, 0, 0],
+                                "InspectScale" :  [1, 1, 1],
+                                "NormalModel" : "",
+                                "InspectModel" : ""
+                            },
+                            
+    "ModHarvestableBehaviour": {
+                                "Audio" : "Play_SndInvStoneSmall",
+                                "Minutes" : 2,
+                                "YieldCounts" : [10],
+                                "YieldNames" : ["GEAR_Stone"],
+                                "RequiredToolNames" : []
+                            },
+    "ModStackableBehaviour": {
+                                "SingleUnitTextId" : "GAMEPLAY_StonePile010",
+                                "MultipleUnitTextId" : "GAMEPLAY_StonePile010",
+                                "StackSprite" : "",
+                                "UnitsPerItem" : 1,
+                                "ChanceFull" : 100
+                             }
+}

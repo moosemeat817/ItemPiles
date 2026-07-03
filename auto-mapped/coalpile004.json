@@ -1,0 +1,45 @@
+{
+    "ModGenericComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_CoalPile004",
+                                "DescriptionLocalizatonId"  : "GAMEPLAY_CoalPile004Description",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 1.2,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Perfect",
+                                "InventoryCategory" : "Auto",
+                                "PickUpAudio" : "Play_SndInvStoneSmall",
+                                "PutBackAudio" : "Play_SndInvStoneSmall",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 1.0,
+                                "InspectAngles" : [-45, 40, 0],
+                                "InspectOffset" : [0, 0, 0],
+                                "InspectScale" :  [1, 1, 1],
+                                "NormalModel" : "",
+                                "InspectModel" : ""
+                            },
+                            
+    "ModHarvestableBehaviour": {
+                                "Audio" : "Play_SndInvStoneSmall",
+                                "Minutes" : 2,
+                                "YieldCounts" : [4],
+                                "YieldNames" : ["GEAR_Coal"],
+                                "RequiredToolNames" : []
+                            },
+    "ModBurnableBehaviour": {
+                                "BurningMinutes" : 240,
+                                "BurningMinutesBeforeAllowedToAdd" : 0.01,
+                                "SuccessModifier" : -100.0,
+                                "TempIncrease" : 80,
+                                "DurationOffset" : 0.0
+                            },
+    "ModStackableBehaviour": {
+                                "SingleUnitTextId" : "GAMEPLAY_CoalPile004",
+                                "MultipleUnitTextId" : "GAMEPLAY_CoalPile004",
+                                "StackSprite" : "",
+                                "UnitsPerItem" : 1,
+                                "ChanceFull" : 100
+                             }
+}

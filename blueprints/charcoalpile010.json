@@ -1,0 +1,17 @@
+{
+    "Name": "GEAR_CharcoalPile010",
+    "RequiredGear":[{"Item":"GEAR_Charcoal","Count":10}],
+    "KeroseneLitersRequired": 0.0,
+    "GunpowderKGRequired": 0.0,
+    "RequiredTool": "",
+    "OptionalTools": [],
+    "RequiredCraftingLocation": "Anywhere",
+    "RequiresLitFire": false,
+    "RequiresLight": false,
+    "CraftedResult": "GEAR_CharcoalPile010",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 2,
+    "CraftingAudio": "Play_SndInvStoneSmall",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}
