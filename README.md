@@ -1,4 +1,7 @@
 # ItemPiles
+
+⚠️ This is a TLD Community Mod, which may or may not be maintained in the future. ⚠️ 
+
 This is Emma's Item Piles mod, what more do you need to know?
 
 
